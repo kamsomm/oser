@@ -1,0 +1,11 @@
+---
+title: Research collections
+listing:
+  contents: '*/index.qmd'
+  type: table
+  fields: [title, description, categories]
+  filter-ui: true
+  sort-ui: true
+---
+
+The example below is a template, not a published review.

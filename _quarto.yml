@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "Open Systematic Evidence Repository"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: reviews/index.qmd
+        text: Reviews
+      - href: policy.qmd
+        text: Data policy
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

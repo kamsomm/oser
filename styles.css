@@ -1,0 +1,4 @@
+.navbar { background: #123c46; }
+.navbar .nav-link, .navbar-brand { color: white !important; }
+main { max-width: 1000px; }
+h1,h2 { color: #123c46; }

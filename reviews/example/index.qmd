@@ -1,0 +1,19 @@
+---
+title: Example systematic review
+description: Placeholder
+categories: [Demonstration]
+---
+
+**Template only. No clinical findings.**
+
+## Review details
+
+Add PICO, authors, search date, protocol and manuscript references.
+
+## Results and downloads
+
+Add approved aggregate results, forest plots, GRADE assessments and analysis scripts.
+
+## Archival citation
+
+Add the version-specific Zenodo DOI after an approved deposit is published.

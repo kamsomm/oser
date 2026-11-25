@@ -1,0 +1,5 @@
+---
+title: Data policy
+---
+
+Publish only material approved for public release. Do not commit confidential data, participant-level data, credentials or unpublished results without permission. Confirm copyright, licensing and institutional requirements before publication. Archive approved versions in Zenodo and retain their DOI links on review pages.

@@ -1,0 +1,13 @@
+---
+title: Open Systematic Evidence Repository
+---
+
+Explore, access and reuse systematic review evidence.
+
+This repository is a foundation for sharing approved aggregate data, analysis code and results from systematic reviews and meta-analyses.
+
+[Browse research collections](reviews/index.qmd)
+
+## Research transparency
+
+Each published collection should link to its manuscript, data dictionary, analysis code and version-specific archival DOI when available. No actual research data have been deposited yet.
