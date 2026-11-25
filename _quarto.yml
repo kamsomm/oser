@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "reviews/**/data/**"
+    - "reviews/**/results/**"
+    - "reviews/**/figures/**"
+    - "reviews/**/code/**"
 website:
   title: "Open Systematic Evidence Repository"
   search: true

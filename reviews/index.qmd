@@ -1,11 +1,16 @@
+
 ---
-title: Research collections
+title: "Systematic Reviews"
+description: "Explore our systematic reviews and evidence synthesis research collections."
 listing:
-  contents: '*/index.qmd'
-  type: table
-  fields: [title, description, categories]
+  contents: "*/index.qmd"
+  type: grid
+  sort: "date desc"
+  categories: true
   filter-ui: true
   sort-ui: true
+  fields: [title, description, date, categories]
 ---
 
-The example below is a template, not a published review.
+Explore our collection of systematic reviews, meta-analyses,
+network meta-analyses and GRADE assessments.
